@@ -89,3 +89,4 @@ config.ini
 # models/
 # *.pkl
 # *.joblib
+file.env
