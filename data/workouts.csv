@@ -1,0 +1,13 @@
+workout_id,workout_name,exercise_type,difficulty_level,calories_burned,duration_minutes,equipment,goal
+1,Running,Cardio,Beginner,300,30,None,WeightLoss
+2,Weight Lifting,Strength,Intermediate,250,45,Dumbbells,MuscleGain
+3,Yoga,Flexibility,Beginner,150,60,Mat,Flexibility
+4,HIIT Training,Cardio,Advanced,400,20,None,WeightLoss
+5,Swimming,Cardio,Intermediate,350,45,None,WeightLoss
+6,Push-ups,Strength,Beginner,200,20,None,MuscleGain
+7,Squats,Strength,Intermediate,300,30,Barbell,MuscleGain
+8,Cycling,Cardio,Intermediate,320,60,Bicycle,WeightLoss
+9,Pilates,Flexibility,Beginner,200,50,Mat,Toning
+10,Boxing,Cardio,Advanced,450,30,Bag,WeightLoss
+11,Deadlift,Strength,Advanced,350,20,Barbell,MuscleGain
+12,Stretching,Flexibility,Beginner,100,30,Mat,Recovery

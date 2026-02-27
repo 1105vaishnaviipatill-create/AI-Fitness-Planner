@@ -1,0 +1,16 @@
+food_id,food_name,calories,protein,carbs,fats,diet_type,budget_level,category
+1,Chicken Breast,165,31,0,3.6,Balanced,Low,Protein
+2,Brown Rice,111,2.6,23,0.9,Balanced,Low,Carbs
+3,Salmon,206,22,0,13,HighProtein,Medium,Protein
+4,Sweet Potato,86,1.6,20,0.1,Balanced,Low,Carbs
+5,Broccoli,34,2.8,7,0.4,Vegan,Low,Vegetables
+6,Almonds,579,21,22,50,Vegan,Medium,Nuts
+7,Eggs,155,13,1.1,11,Balanced,Low,Protein
+8,Greek Yogurt,60,10,3,0.4,Balanced,Low,Dairy
+9,Oats,389,17,66,7,Vegan,Low,Carbs
+10,Beef Steak,250,26,0,15,HighProtein,High,Protein
+11,Tofu,76,8,1.9,4.8,Vegan,Low,Protein
+12,Lentils,116,9,20,0.4,Vegan,Low,Protein
+13,Avocado,160,2,9,15,Vegan,Medium,Fats
+14,Banana,89,1.1,23,0.3,Vegan,Low,Fruits
+15,Spinach,23,2.9,3.6,0.4,Vegan,Low,Vegetables
